@@ -1,0 +1,12 @@
+2025-11-19 00:07:01.823791: extraction complete 
+2025-11-19 00:07:01.833966: loading raw data to csv is complete 
+2025-11-19 00:07:01.887463: transforming is complete 
+2025-11-19 00:07:01.891004: loading clean data is complete 
+2025-11-19 00:07:02.403595: analysis1 is complete 
+2025-11-19 00:07:02.733335: analysis2 is complete 
+2025-11-19 00:07:02.895689: analysis3 is complete 
+2025-11-19 00:07:03.340536: analysis5 is complete 
+2025-11-19 00:07:03.721468: database is created completely 
+2025-11-19 00:07:03.754893: table is created completely 
+2025-11-19 00:07:03.921060: value is inserted completely 
+2025-11-19 00:07:03.926728: query is running completely 
